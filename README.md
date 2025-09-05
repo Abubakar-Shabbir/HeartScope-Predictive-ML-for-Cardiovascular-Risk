@@ -50,4 +50,4 @@ Notebooks/HeartScope_Predictive ML for Cardiovascular Risk.ipynb
 Abubakar Shabbir
 
 ## License
-This project is licensed under the [MIT License](./LICENSE).
+[MIT License](./LICENSE) © 2025 Abubakar Shabbir.
